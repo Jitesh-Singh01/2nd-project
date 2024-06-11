@@ -8,6 +8,7 @@
                 "useTabs": false,
                 "singleQuote": false,
                 "bracketSpacing": false
+            }
         },
         {
             "files": "*.yml",
