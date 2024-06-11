@@ -12,7 +12,7 @@ ETH project - using solidity
 
 ### Executing program
 
-```clone the repository on remix ide, compile and execute by passing required arguments
+clone the repository on remix ide, compile and execute by passing required arguments
 
 ## Authors
 
